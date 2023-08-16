@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhayDave
+- 👋 Hi, I’m Abhay Dave
 - 🧙‍♂️ A Linux Nerd and A fan of Minimal Customised Systems  
 - 👀 I’m interested in Web, Cloud & App
 - 🌱 I’m currently learning Web
